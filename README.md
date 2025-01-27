@@ -1,8 +1,16 @@
-# React + Vite
+# React Crash Course 2024
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Run Backend Test Server
 
-Currently, two official plugins are available:
+!Set to port 8000
+`$ npm run server`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Run Dev Server
+
+!Set to port 3000
+`$ npm run dev`
+
+## Run Production Build
+
+! Set to port 4173
+`$ npm run preview`
